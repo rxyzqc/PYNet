@@ -1,2 +1,0 @@
-# PYNet
-Python Network Tool
